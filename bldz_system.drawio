@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="-N_JaO24lvqWADoLBfYY">
-    <mxGraphModel dx="1080" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,13 +10,13 @@
         <mxCell id="j-qJBeYr4ZlMh-Ftab0K-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" parent="1" source="j-qJBeYr4ZlMh-Ftab0K-7" target="j-qJBeYr4ZlMh-Ftab0K-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j-qJBeYr4ZlMh-Ftab0K-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="j-qJBeYr4ZlMh-Ftab0K-7" target="j-qJBeYr4ZlMh-Ftab0K-38" edge="1">
+        <mxCell id="j-qJBeYr4ZlMh-Ftab0K-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="j-qJBeYr4ZlMh-Ftab0K-7" target="j-qJBeYr4ZlMh-Ftab0K-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j-qJBeYr4ZlMh-Ftab0K-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="j-qJBeYr4ZlMh-Ftab0K-7" target="j-qJBeYr4ZlMh-Ftab0K-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j-qJBeYr4ZlMh-Ftab0K-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j-qJBeYr4ZlMh-Ftab0K-7" target="j-qJBeYr4ZlMh-Ftab0K-48" edge="1">
+        <mxCell id="j-qJBeYr4ZlMh-Ftab0K-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="j-qJBeYr4ZlMh-Ftab0K-7" target="j-qJBeYr4ZlMh-Ftab0K-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="480" />
@@ -42,8 +42,8 @@
         <mxCell id="j-qJBeYr4ZlMh-Ftab0K-12" value="Reverse&lt;div&gt;Proxy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-qJBeYr4ZlMh-Ftab0K-35" value="Arcmedia Domäne / Hosting" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="235" y="270" width="190" height="30" as="geometry" />
+        <mxCell id="j-qJBeYr4ZlMh-Ftab0K-35" value="Arcmedia Domäne /&amp;nbsp;&lt;div&gt;Hosting bei Flow&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="235" y="270" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j-qJBeYr4ZlMh-Ftab0K-38" value="Brevo E-Mail Marketing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="500" width="120" height="60" as="geometry" />
