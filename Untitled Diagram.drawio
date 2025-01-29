@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="YHS2vDc92eCSIjYVYSHB">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ll0BrLWjR_XEx1XnaNJg-1" target="ll0BrLWjR_XEx1XnaNJg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ll0BrLWjR_XEx1XnaNJg-1" target="ll0BrLWjR_XEx1XnaNJg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-1" value="Website" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-2" value="&lt;b&gt;Handles&lt;/b&gt;&lt;div&gt;- URL&lt;/div&gt;&lt;div&gt;- Users (if global)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ll0BrLWjR_XEx1XnaNJg-3" target="ll0BrLWjR_XEx1XnaNJg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-3" value="Store 1&lt;div&gt;Germany&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="205" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ll0BrLWjR_XEx1XnaNJg-4" target="ll0BrLWjR_XEx1XnaNJg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ll0BrLWjR_XEx1XnaNJg-4" target="ll0BrLWjR_XEx1XnaNJg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-4" value="Store 2&lt;div&gt;Switzerland&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-7" value="&lt;b&gt;Handles&lt;/b&gt;&lt;div&gt;- Product Catalog&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Categories&lt;/div&gt;&lt;div&gt;- Product Assignment&lt;/div&gt;&lt;div&gt;- Users (if split)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="260" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-9" value="Store View&lt;div&gt;de_DE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="205" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-10" value="Store View&lt;div&gt;de_CH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="425" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-11" value="Store View&lt;div&gt;fr_CH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="620" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll0BrLWjR_XEx1XnaNJg-14" value="&lt;b&gt;Handles&lt;/b&gt;&lt;div&gt;- Language&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Design&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
