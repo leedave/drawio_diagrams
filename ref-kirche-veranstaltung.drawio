@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="DjZ5zcDv4gxrkIKo6aBe">
-    <mxGraphModel>
+    <mxGraphModel dx="675" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--1" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="380" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--2" value="Singe mit de Chind" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--3" value="Ter" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="70" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--3">
+          <mxGeometry width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--5" value="Termindetails" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--3">
+          <mxGeometry x="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--22" value="Datum / Zeit" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--3">
+          <mxGeometry x="10" y="30" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--23" value="Standort" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--3">
+          <mxGeometry x="10" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--24" value="Freie Plätze" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--3">
+          <mxGeometry x="10" y="70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--26" value="Kalender Download" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--3">
+          <mxGeometry x="10" y="90" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--11" value="Ansprechsperson" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=1;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--3">
+          <mxGeometry y="130" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--12" value="Eigenständige Inhalte" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="70" width="185" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--13" value="-----------" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--12">
+          <mxGeometry y="30" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--14" value="-----------" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--12">
+          <mxGeometry y="60" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--15" value="-----------" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ETGfiEYCfAUgSn7Q7aI--12">
+          <mxGeometry y="90" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--17" value="Anmelde Formular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="200" width="205" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--25" value="Helfer Anmeldung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ETGfiEYCfAUgSn7Q7aI--35" value="Standort" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="245" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
