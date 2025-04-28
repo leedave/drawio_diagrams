@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="FKmhLzPPBVRwJOa_X5JW">
-    <mxGraphModel dx="1203" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,13 +46,13 @@
           <mxGeometry width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zFaBhcQBSHrL6NsW4gP--16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=1;" parent="zFaBhcQBSHrL6NsW4gP--28" vertex="1">
-          <mxGeometry width="110" height="120" as="geometry" />
+          <mxGeometry width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zFaBhcQBSHrL6NsW4gP--8" value="Swat.io" style="rounded=1;whiteSpace=wrap;html=1;" parent="zFaBhcQBSHrL6NsW4gP--28" vertex="1">
-          <mxGeometry x="12.497142857142848" y="30.00090909090909" width="85.71428571428571" height="36.36363636363636" as="geometry" />
+          <mxGeometry x="12.147142857142848" y="10.00090909090909" width="85.71428571428571" height="36.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="zFaBhcQBSHrL6NsW4gP--9" value="erpKG" style="rounded=1;whiteSpace=wrap;html=1;" parent="zFaBhcQBSHrL6NsW4gP--28" vertex="1">
-          <mxGeometry x="12.498571428571424" y="75.45545454545454" width="85.71428571428571" height="36.36363636363636" as="geometry" />
+          <mxGeometry x="12.138571428571424" y="54.99545454545454" width="85.71428571428571" height="36.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="zFaBhcQBSHrL6NsW4gP--20" value="" style="group" parent="zFaBhcQBSHrL6NsW4gP--17" vertex="1" connectable="0">
           <mxGeometry x="140" y="-1.8199999999999932" width="300" height="100" as="geometry" />
@@ -60,7 +60,7 @@
         <mxCell id="zFaBhcQBSHrL6NsW4gP--21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=1;" parent="zFaBhcQBSHrL6NsW4gP--20" vertex="1">
           <mxGeometry width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zFaBhcQBSHrL6NsW4gP--22" value="RaiseNow" style="rounded=1;whiteSpace=wrap;html=1;" parent="zFaBhcQBSHrL6NsW4gP--20" vertex="1">
+        <mxCell id="zFaBhcQBSHrL6NsW4gP--22" value="Saferpay" style="rounded=1;whiteSpace=wrap;html=1;" parent="zFaBhcQBSHrL6NsW4gP--20" vertex="1">
           <mxGeometry x="8.57571428571427" y="54.54545454545455" width="85.71428571428571" height="36.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="zFaBhcQBSHrL6NsW4gP--23" value="Captcha&lt;div&gt;Anbieter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="zFaBhcQBSHrL6NsW4gP--20" vertex="1">
